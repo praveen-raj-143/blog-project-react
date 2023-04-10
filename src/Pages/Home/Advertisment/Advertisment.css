@@ -1,0 +1,23 @@
+.toppos{
+    position: absolute;
+    right: 100px;
+    top: 150px;
+}
+.add{
+    border: 2px solid black;
+    width: 400px;
+    height: 800px;
+    text-align: center;
+    font-size: xx-large;
+    font-style: italic;
+    background-image: url(https://i.pinimg.com/originals/e2/bd/ed/e2bded1e1b32ded3fa9c79f3d8912af0.jpg);
+    background-size: cover;
+}
+.rot{
+    position: relative;
+    top: 200px;
+    left: -70px;
+    height: fit-content;
+    width: fit-content;
+    transform: rotate(270deg);
+}

@@ -1,0 +1,13 @@
+.article{
+    margin: auto;
+    width: 800px;
+    text-align: center;
+}
+
+.articleimg{
+    background-image: url(https://m.media-amazon.com/images/M/MV5BM2QzM2JiNTMtYjU4Ny00MDZkLTk3MmUtYTRjMzVkZGJlNmYyXkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_.jpg);
+    background-size: cover;
+    width: 500px;
+    height: 500px;
+    margin: auto;
+}

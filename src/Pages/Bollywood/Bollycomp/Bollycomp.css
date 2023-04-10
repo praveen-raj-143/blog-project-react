@@ -1,0 +1,23 @@
+.box{
+    position: relative;
+    left: 80px;
+    width: 500px;
+    height: 300px;
+    border: 2px solid black;
+    margin: 50px;
+    border-radius: 25px;
+    display: flex;
+    flex-direction: row;
+}
+.bollyimg{
+    width: 250px;
+    height: 250px;
+    margin: 15px;
+}
+.bollytxt{
+    width: 250px;
+    height: 250px;
+    font-style: italic;
+    text-align: center;
+    margin: 20px;
+}
